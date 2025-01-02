@@ -14,9 +14,9 @@ This is a small project for practicing and documenting the use of Swagger in a N
 ## Project Structure
 ```plaintext
 . ├── src
-    │ ├── server.ts # Entry point for the Fastify application 
-    │ ├── routes.ts # API routes 
-    │ ├── types.ts # Custom types for Fastify with Zod 
+  │ ├── server.ts # Entry point for the Fastify application 
+  │ ├── routes.ts # API routes 
+  │ ├── types.ts # Custom types for Fastify with Zod 
   ├── package.json  
   ├── pnpm-lock.yaml 
   └── README.md
